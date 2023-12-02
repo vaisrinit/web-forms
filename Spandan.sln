@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spandan", "Spandan\Spandan.csproj", "{CC356919-05D0-4D7E-A11B-2A2D88602EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC356919-05D0-4D7E-A11B-2A2D88602EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC356919-05D0-4D7E-A11B-2A2D88602EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC356919-05D0-4D7E-A11B-2A2D88602EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC356919-05D0-4D7E-A11B-2A2D88602EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90B76A0A-816C-4E31-A8D6-D123D5DC629B}
+	EndGlobalSection
+EndGlobal
